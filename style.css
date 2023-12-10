@@ -18,7 +18,11 @@ body {
     text-align: center;
     color: #333;
   }
-  
+
+  h5 {
+    text-align: center;
+    color: #525151;
+  }
   form {
     margin-bottom: 20px;
   }
